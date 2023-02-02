@@ -1,0 +1,11 @@
+.logo {
+  height: 40px;
+  width: 40px;
+  border-radius: 50%;
+  background-color: red;
+}
+.header {
+  background-color: rgb(79, 12, 79);
+  padding: 20px 20px;
+  border-bottom: 3px solid purple;
+}

@@ -1,0 +1,13 @@
+.dialogs {
+  background-color: rgb(255, 213, 249);
+  width: 100%;
+  display: flex;
+
+  padding: 30px;
+
+  font-size: 20px;
+}
+
+a {
+  color: aliceblue;
+}

@@ -1,0 +1,11 @@
+.content_img {
+  position: absolute;
+  width: 100%;
+  object-fit: cover;
+  height: 200px;
+}
+
+.description {
+  margin-top: 200px;
+  padding: 20px;
+}

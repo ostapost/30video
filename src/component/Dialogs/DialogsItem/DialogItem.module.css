@@ -1,0 +1,22 @@
+.dialog_item {
+  border: 1px solid black;
+  padding: 5px;
+  margin-bottom: 10px;
+  background-color: rgb(115, 1, 115);
+  color: white;
+  display: flex;
+  align-items: center;
+}
+
+a {
+  text-decoration: none;
+}
+
+.image {
+  border: 2px solid rgb(208, 162, 208);
+  height: 80px;
+  width: 80px;
+  object-fit: cover;
+  border-radius: 50%;
+  margin-right: 20px;
+}
